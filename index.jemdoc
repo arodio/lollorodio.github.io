@@ -1,0 +1,32 @@
+# jemdoc: {index.html}, nofooter  
+==Angelo Rodio
+
+~~~
+{}{img_left}{photos/bio_1.jpg}{alt text}{154}{230}{http://www-sop.inria.fr/members/Angelo.Rodio/}
+Ph.D. Student,\n 
+[https://3ia.univ-cotedazur.eu 3IA Côte d'Azur],\n
+[https://univ-cotedazur.fr Université Côte D'Azur],\n
+[https://team.inria.fr/neo/team-members Inria Project-Team NEO].\n
+Office: L116, Inria, \n
+2004 route des Lucioles, \n
+06902 Sophia Antipolis, France. \n 
+E-mail: /angelo/ \[/dot/\] /rodio/ \[/AT/\] /inria/ \[/dot/\] /fr/
+~~~
+
+== About me
+I received the B.Sc. degree in computer engineering and the M.Sc. degree in Telecommunications from [https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10016 Polytechnic University of Bari], Italy, in 2018 and 2020, respectively.\n
+As part of a double diploma program, I also received the M.Sc. degree in computer engineering from [https://ubinet.univ-cotedazur.fr Université Côte D'Azur], France.\n
+As of April 2021, I am a PhD student at [https://3ia.univ-cotedazur.eu 3IA Côte d'Azur], [https://www.inria.fr/en/inria-centre-universite-cote-dazur Inria], France, under the supervision of [http://www-sop.inria.fr/members/Giovanni.Neglia/ Prof. Giovanni Neglia] and [http://www-sop.inria.fr/members/Alain.Jean-Marie/ Prof. Alain Jean-Marie].
+
+== Research
+My research interests include:
+- Distributed optimization for Machine Learning
+- Resource-awareness in Federated Learning
+- Energy and carbon footprint of ML training
+
+== Teaching
+List of the courses I am involved in as a teaching assistant:
+- \[2021-2022\] [https://sites.google.com/view/chuanxu/optimization-for-machine-learning Optimization for Machine Learning]
+
+# [cv.pdf A brief cv].
+

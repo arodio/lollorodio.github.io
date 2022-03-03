@@ -358,7 +358,7 @@ tr.heading {
 }
 
 img {
-    border: none;
+    border: 5px solid #224b8d;
 }
 
 table.imgtable, table.imgtable td {
