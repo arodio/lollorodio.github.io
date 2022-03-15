@@ -1,0 +1,22 @@
+# jemdoc: {optimal.html}, nofooter  
+==Optimization for Machine Learning, 2021-2022
+
+== General info
+This is the lab course for the main course: [http://www-sop.inria.fr/members/Giovanni.Neglia/optimal/ Optimization for Machine Learning]. \n
+Teachers: [http://www-sop.inria.fr/members/Othmane.Marfoq/ Othmane Marfoq], [http://www-sop.inria.fr/members/Angelo.Rodio/ Angelo Rodio]. \n
+During these practical sessions students will have the opportunity to train ML models in a distributed way on Inria scientific cluster. \n
+Participation to the labs will be graded by the teachers (25\% of the final mark). 
+
+== Prerequisites
+Students need to carry out the following administrative/configuration steps before the start of the labs:
+- [https://gitlab.inria.fr/arodio/optimal/-/blob/main/NEF.pdf Tutorial for the usage of NEF cluster]. 
+
+== Class schedule
+Lessons will be from 13.30 to 16.45. 
+- TP1: 08\/03\/2022. Room: 
+- TP2: 15\/03\/2022. Room: 
+- TP3: 22\/03\/2022. Room: 
+
+== Course material
+[https://gitlab.inria.fr/arodio/optimal GitLab page of the course].
+
