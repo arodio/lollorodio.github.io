@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{talks.html} 
+= Angelo Rodio | INRIA | Talks and Posters
+
+== 2023
+
+. \[[pdfs/talk_infocom_2023.pdf Talk]\] *``Federated Learning under Heterogeneous and Correlated Client Availability''* presented at:
+	.. [https://infocom2023.ieee-infocom.org/ IEEE INFOCOM 2023], Stevens Institute of Technology, Hoboken, United States, May 17 – 20, 2023
+
+== 2022
+
+. \[[pdfs/talk_jraf_2022.pdf Talk]\] *``Federated Learning under Heterogeneous and Correlated Client Availability''* presented at:
+	.. [https://univ-cotedazur.fr/events-uca/sophia-summit SophI.A summit 2022], Sophia-Antipolis, France, November 23, 2022
+	.. [https://miai.univ-grenoble-alpes.fr/journees-sur-la-recherche-en-apprentissage-frugal-24-25-novembre-2022-880418.kjsp Workshop on Frugal Machine Learning], Université Grenoble Alpes, Grenoble, France, November 25, 2022
+
+. \[[pdfs/poster_3ia_2022.pdf Poster]\] *``Federated Learning under Heterogeneous and Correlated Client Availability''* presented at:
+	.. Inria, 3IA Côte d'Azur Scientific Days, Sophia Antipolis, France, November 14 and 15, 2022 
+
+== 2021
+
+. \[[pdfs/poster_3ia_2021.pdf Poster]\] *``Resource-aware Federated Learning''* presented at:
+	.. Inria, 3IA Côte d'Azur Scientific Annual Meeting, Sophia Antipolis, France, November 30 – December 1, 2021

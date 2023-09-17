@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{publications.html}
+= Angelo Rodio | INRIA | Publications
+
+== 2023
+\n
+- *Angelo Rodio*, Francescomaria Faticanti, Othmane Marfoq, Giovanni Neglia, and Emilio Leonardi, /Federated Learning under Heterogeneous and Correlated Client Availability/, To appear in IEEE/ACM Transactions on Networking, 2023. \n
+
+- *Angelo Rodio*, Giovanni Neglia, Fabio Busacca, Stefano Mangione, Sergio Palazzo, Francesco Restuccia, and Ilenia Tinnirello, /Federated Learning with Packet Losses/, IEEE International Symposium On Wireless Personal Multimedia Communications (WPMC), Tampa, Florida, USA, November 19-22, 2023.  \n
+
+- *Angelo Rodio*, Francescomaria Faticanti, Othmane Marfoq, Giovanni Neglia, and Emilio Leonardi, /Federated Learning under Heterogeneous and Correlated Client Availability/, IEEE Conference on Computer Communications (INFOCOM), Hoboken, New Jersey, USA, May 17-20, 2023. \n
+\[[https://arxiv.org/abs/2301.04632 Preprint]\] \[[https://ieeexplore.ieee.org/document/10228876 Proceedings]\] \[[https://github.com/arodio/CA-Fed Code]\]\n
+
+== Peer review
+\n
+I am serving/served as reviewer for: 
+
+- [https://globecom2023.ieee-globecom.org/ IEEE Global Communications Conference (GLOBECOM 2023)] 
+- [https://www.sciencedirect.com/journal/computer-communications Computer Communications Journal] 
+- [https://www.sciencedirect.com/journal/computer-networks Computer Networks Journal] 
+
