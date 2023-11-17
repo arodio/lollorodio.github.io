@@ -1,8 +1,8 @@
 # jemdoc: menu{MENU}{index.html} 
-= Angelo Rodio | INRIA | PhD Candidate
+= Angelo Rodio | Inria | PhD Candidate
 
 ~~~
-{}{img_left}{images/portrait.jpg}{Portrait of Angelo Rodio}{214}{300}
+{}{img_left}{images/portrait.jpg}{Portrait of Angelo Rodio}{214}{321}
 
 *Doctorant* (PhD Student) \n
 [https://3ia.univ-cotedazur.eu 3IA Côte d'Azur] \n
@@ -27,6 +27,7 @@ I employ mathematical tools from distributed optimization and statistical learni
 
 == News
 \n
+- Nov. 2023: Presented a talk at [http://wpmc2023.com/ WPMC 2023], University of South Florida, Tampa, United States
 - Sep. 2023: Accepted journal paper at IEEE/ACM Transactions on Networking
 - Aug. 2023: Accepted conference paper at WPMC 2023
 - May 2023: Presented a talk at [https://infocom2023.ieee-infocom.org/ IEEE INFOCOM 2023], Stevens Institute of Technology, Hoboken, United States

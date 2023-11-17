@@ -1,7 +1,10 @@
 # jemdoc: menu{MENU}{talks.html} 
-= Angelo Rodio | INRIA | Talks and Posters
+= Angelo Rodio | Inria | Talks and Posters
 
 == 2023
+
+. \[[pdfs/talk_wpmc_2023.pdf Talk]\] *``Federated Learning with Packet Losses''* presented at:
+	.. [http://wpmc2023.com/ WPMC 2023], University of South Florida, Tampa, United States, November 19 – 22, 2023
 
 . \[[pdfs/talk_infocom_2023.pdf Talk]\] *``Federated Learning under Heterogeneous and Correlated Client Availability''* presented at:
 	.. [https://infocom2023.ieee-infocom.org/ IEEE INFOCOM 2023], Stevens Institute of Technology, Hoboken, United States, May 17 – 20, 2023
