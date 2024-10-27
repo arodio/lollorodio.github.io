@@ -8,6 +8,5 @@ matlab
 build
 MANIFEST
 jo
-*.html
 stage/
 .DS_Store
