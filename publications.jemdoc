@@ -1,11 +1,25 @@
 # jemdoc: menu{MENU}{publications.html}
-= Angelo Rodio | Inria | Publications
+= Angelo Rodio | Linköping University | Publications
+
+== PhD Thesis
+\n
+- *Angelo Rodio*, /Client heterogeneity in federated learning systems/, PhD Thesis, Université Côte d'Azur, July 2024. \n
+\[[https://theses.hal.science/tel-04685040/ Manuscript]\] \n
+
+== 2024
+\n
+- *Angelo Rodio* and Giovanni Neglia, /FedStale: leveraging Stale Client Updates in Federated Learning/, To appear in the proceedings of the 27-th European Conference on Artificial Intelligence (ECAI) 2024, Santiago de Compostela, Spain, October 19-24, 2024. \n
+\[[https://arxiv.org/abs/2405.04171 Preprint]\] \[[https://github.com/arodio/FedStale Code]\]\n
+
+- *Angelo Rodio*, /The Many Facets of Variance Reduction in Federated Learning/, To appear in the proceedings of ACM SIGMETRICS / IFIP Performance 2024, Venice, Italy, June 10-14, 2024. \n
 
 == 2023
 \n
-- *Angelo Rodio*, Francescomaria Faticanti, Othmane Marfoq, Giovanni Neglia, and Emilio Leonardi, /Federated Learning under Heterogeneous and Correlated Client Availability/, To appear in IEEE/ACM Transactions on Networking, 2023. \n
+- *Angelo Rodio*, Francescomaria Faticanti, Othmane Marfoq, Giovanni Neglia, and Emilio Leonardi, /Federated Learning under Heterogeneous and Correlated Client Availability/, IEEE/ACM Transactions on Networking, 2023. \n
+\[[https://ieeexplore.ieee.org/document/10292582 Manuscript]\] \[[https://ieeexplore.ieee.org/ielx7/90/10505042/10292582/supp1-3324257.pdf?arnumber=10292582 Supplementary]\]\n
 
-- *Angelo Rodio*, Giovanni Neglia, Fabio Busacca, Stefano Mangione, Sergio Palazzo, Francesco Restuccia, and Ilenia Tinnirello, /Federated Learning with Packet Losses/, IEEE International Symposium On Wireless Personal Multimedia Communications (WPMC), Tampa, Florida, USA, November 19-22, 2023.  \n
+- *Angelo Rodio*, Giovanni Neglia, Fabio Busacca, Stefano Mangione, Sergio Palazzo, Francesco Restuccia, and Ilenia Tinnirello, /Federated Learning with Packet Losses/, IEEE International Symposium On Wireless Personal Multimedia Communications (WPMC), Tampa, Florida, USA, November 19-22, 2023. \n
+\[[https://ieeexplore.ieee.org/document/10338845 Proceedings]\] \[[https://github.com/arodio/UPGA-PL Code]\]\n
 
 - *Angelo Rodio*, Francescomaria Faticanti, Othmane Marfoq, Giovanni Neglia, and Emilio Leonardi, /Federated Learning under Heterogeneous and Correlated Client Availability/, IEEE Conference on Computer Communications (INFOCOM), Hoboken, New Jersey, USA, May 17-20, 2023. \n
 \[[https://arxiv.org/abs/2301.04632 Preprint]\] \[[https://ieeexplore.ieee.org/document/10228876 Proceedings]\] \[[https://github.com/arodio/CA-Fed Code]\]\n

@@ -1,5 +1,18 @@
 # jemdoc: menu{MENU}{talks.html} 
-= Angelo Rodio | Inria | Talks and Posters
+= Angelo Rodio | Linköping University | Talks and Posters
+
+== PhD Defense
+
+. \[[pdfs/talk_phd_2024.pptx Talk]\] *``Client heterogeneity in federated learning systems''*, PhD Presentation,
+	.. Centre Inria d'Université Côte d'Azur, France, July 3rd, 2024
+
+== 2024
+
+. \[[pdfs/talk_ecai_2024.pptx Talk]\] *``FedStale: leveraging Stale Client Updates in Federated Learning''* presented at:
+	.. [https://www.ecai2024.eu ECAI 2024], Santiago de Compostela, Spain, October 19 – 24, 2024
+
+. \[[pdfs/poster_sigmetrics_2024.pdf Poster]\] *``The Many Facets of Variance Reduction in Federated Learning''* presented at:
+	.. [https://www.sigmetrics.org/sigmetrics2024/ ACM SIGMETRICS / IFIP Performance 2024], Venice, Italy, June 10-14, 2024
 
 == 2023
 

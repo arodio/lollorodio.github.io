@@ -1,39 +1,42 @@
 # jemdoc: menu{MENU}{index.html} 
-= Angelo Rodio | Inria | PhD Candidate
+= Angelo Rodio | Linköping University | Postdoc
 
 ~~~
 {}{img_left}{images/portrait.jpg}{Portrait of Angelo Rodio}{214}{321}
 
-*Doctorant* (PhD Student) \n
-[https://3ia.univ-cotedazur.eu 3IA Côte d'Azur] \n
-[https://univ-cotedazur.fr Université Côte D'Azur] \n
-[https://team.inria.fr/neo/team-members Inria Project-Team NEO] \n
+*Postdoctoral Researcher* \n
+[https://liu.se/en Linköping University (LiU)] \n
+[https://liu.se/en/organisation/liu/isy Department of Electrical Engineering (ISY)] \n
+[https://liu.se/en/organisation/liu/isy/ks Communication Systems (KS)] \n
 
 == Contact
-[https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee Centre Inria d'Université Côte d'Azur] \n
-2004, route des Lucioles BP 93, 06902 Sophia Antipolis  Cedex  \n
-Équipe [https://team.inria.fr/neo/team-members/ NEO], Bâtiment Lagrange, Office: L116 \n
-[angelo.rodio@inria.fr]
+Olaus Magnus väg, 583 30 Linköping  \n
+Campus Valla, B-huset, Entrance 29, Room 3A:469 \n
+[angelo.rodio@liu.se]
 ~~~
 
 == About me
 \n
-My name is Angelo Rodio. I am a third-year PhD student working on [https://www.theses.fr/s318701 "Resource-Aware Federated Learning"] under the guidance of [http://www-sop.inria.fr/members/Giovanni.Neglia/ Dr. Giovanni Neglia] and [http://www-sop.inria.fr/members/Alain.Jean-Marie/ Prof. Alain Jean-Marie] at Inria Sophia-Antipolis (Team [https://team.inria.fr/neo/team-members/ NEO]).
+I am a *postdoctoral researcher* at *Linköping University*, *Sweden*, working with *[https://liu.se/en/employee/erila39 Prof. Erik G. Larsson]* and *[https://liu.se/en/employee/zhech93 Prof. Zheng Chen]* on *decentralized learning*. 
 
-My PhD scholarship is generously funded by [https://3ia.univ-cotedazur.eu 3IA Côte d'Azur], one of France's leading "Interdisciplinary Institutes for Artificial Intelligence."
+Previously, I completed my PhD at Inria, France, working with [http://www-sop.inria.fr/members/Giovanni.Neglia/ Dr. Giovanni Neglia] on *federated learning*. 
 
-I specialize in *distributed* and *federated learning* systems. My research focuses on designing large-scale federated learning algorithms for efficient data and system utilization, with particular emphasis on wireless networks and resource constraints. \n
-I employ mathematical tools from distributed optimization and statistical learning theory.
+My research focuses on designing scalable distributed algorithms for efficient use of data and system resources. I employ mathematical tools from distributed optimization and statistical learning theory.\n
 
 == News
 \n
+- Oct. 2024: Presented a talk at [https://www.ecai2024.eu/ ECAI 2024], Santiago de Compostela, Spain
+- Jul. 2024: Accepted conference paper at ECAI 2024
+- Jul. 2024: Defended my PhD thesis on [https://www.theses.fr/s318701 "Client Heterogeneity in Federated Learning Systems"], Inria, France
+- Jun. 2024: Presented a poster at [https://www.sigmetrics.org/sigmetrics2024/ ACM SIGMETRICS 2024], Venice, Italy
+- Apr. 2024: Accepted abstract at ACM SIGMETRICS Student Research Competition (SRC)
 - Nov. 2023: Presented a talk at [http://wpmc2023.com/ WPMC 2023], University of South Florida, Tampa, United States
 - Sep. 2023: Accepted journal paper at IEEE/ACM Transactions on Networking
 - Aug. 2023: Accepted conference paper at WPMC 2023
 - May 2023: Presented a talk at [https://infocom2023.ieee-infocom.org/ IEEE INFOCOM 2023], Stevens Institute of Technology, Hoboken, United States
 - Dec. 2022: Accepted [https://ieeexplore.ieee.org/document/10228876 conference paper] at IEEE INFOCOM 2023
 - Nov. 2022: Presented a talk at the [https://miai.univ-grenoble-alpes.fr/journees-sur-la-recherche-en-apprentissage-frugal-24-25-novembre-2022-880418.kjsp Workshop on Frugal Machine Learning], Université Grenoble Alpes, France
-- Nov. 2022: Delivered a talk on "Resource-Aware Federated Learning" at [https://univ-cotedazur.fr/events-uca/sophia-summit SophI.A Summit 2022], Sophia-Antipolis, France
+- Nov. 2022: Presented a talk on "Resource-Aware Federated Learning" at [https://univ-cotedazur.fr/events-uca/sophia-summit SophI.A Summit 2022], Sophia-Antipolis, France
 
 
 
